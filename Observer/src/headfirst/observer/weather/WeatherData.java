@@ -1,3 +1,5 @@
+package headfirst.observer.weather;
+
 import java.util.ArrayList;
 
 /**

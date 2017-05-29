@@ -1,3 +1,5 @@
+package headfirst.observer.weather;
+
 /**
  * Created by Roman on 28.05.2017.
  */
